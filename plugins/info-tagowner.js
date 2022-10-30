@@ -13,7 +13,7 @@ module.exports = handler
 
 //let handler = async (m, { conn }) => {
    //let krizyn = `https://telegra.ph/file/cd37b4f991d633caa6306.jpg`
-//let caption = `Ada perlu apa panggil panggil bos saya, kangen yaa 🤪`
+//let caption = `Ada perlu apa panggil saya kangen yak😅☝️`
  
 //conn.send3But( m.chat, krizyn, caption, `📮 Silahkan pilih Button dibawah ini`, `Menu`, `.menu`, `Sewa`, `.sewa`, `Group`, `.allgc`, m)
        //}
