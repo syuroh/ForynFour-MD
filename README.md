@@ -76,3 +76,6 @@ WhatsApp Bot Multi Device
 
 ## Request Fitur To
 [`Creator Here`](https://wa.me/62895327934887?text=Banh+req+fitur) 
+
+#My Link
+[![Linktree](linktr.ee/fahrizx)
